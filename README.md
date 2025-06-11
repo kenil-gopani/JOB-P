@@ -6,7 +6,7 @@ Certainly! Based on the structure and components of your [JOB-P repository](http
 
 **JOB-P** is a full-stack web application designed to streamline job postings and applications. Built with modern technologies, it offers a seamless experience for both employers and job seekers.
 
-## 🌐 Live Demoo
+## 🌐 Live Demo
 
 Experience the application live:
 🔗 [v0-mongo-db-connection-three.vercel.app](https://v0-mongo-db-connection-three.vercel.app)
